@@ -1,0 +1,9 @@
+{
+  "name": "time-icon",
+  "description": "jQuery plugin to create light custom time-icon using SVG",
+  "version": "0.1.0",
+  "main": "time-icon.js",
+  "dependencies": {
+    "jquery": "~1.9.0"
+  }
+}
